@@ -2,3 +2,7 @@
 
 Just playing around with data from
 https://www.bcstats.gov.bc.ca/apps/PopulationEstimates.aspx
+
+Used libraries
+* pandas (duh)
+* matplotlib
